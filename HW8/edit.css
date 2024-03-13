@@ -1,0 +1,16 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#text-container 
+{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: text;
+}
+#text-container textarea 
+{
+    width: 100%;
+    height: 200px;
+}
